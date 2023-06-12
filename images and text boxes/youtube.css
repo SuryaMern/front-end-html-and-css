@@ -1,0 +1,23 @@
+body {
+  font-family: arial;
+}
+.image {
+  width: 300px;
+}
+.search {
+  display: block;
+}
+.tech {
+  width: 300px;
+  line-height: 20px;
+}
+.author {
+  width: 300px;
+}
+.stats {
+  width: 300px;
+}
+.video-editor {
+  width: 300px;
+  display: inline-block;
+}
