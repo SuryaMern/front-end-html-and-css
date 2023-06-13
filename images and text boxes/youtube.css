@@ -21,3 +21,9 @@ body {
   width: 300px;
   display: inline-block;
 }
+.video-writer {
+  vertical-align: top;
+  width: 300px;
+  display: inline-block;
+  margin-left: 15px;
+}
