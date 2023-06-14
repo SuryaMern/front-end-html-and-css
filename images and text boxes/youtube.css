@@ -8,17 +8,16 @@ body {
   display: block;
 }
 .tech {
-  width: 300px;
+  width: 200px;
   line-height: 20px;
 }
 .author {
-  width: 300px;
+  width: 200px;
 }
 .stats {
-  width: 300px;
+  width: 200px;
 }
 .video-editor {
-  width: 300px;
   display: inline-block;
 }
 .video-writer {
@@ -26,4 +25,17 @@ body {
   width: 300px;
   display: inline-block;
   margin-left: 15px;
+}
+.channel {
+  display: inline-block;
+  width: 50px;
+  vertical-align: top;
+}
+.video_info {
+  display: inline-block;
+  width: 100px;
+}
+.profile {
+  width: 100%;
+  border-radius: 50%;
 }
