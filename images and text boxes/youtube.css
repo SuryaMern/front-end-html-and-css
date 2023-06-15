@@ -27,15 +27,19 @@ body {
   margin-left: 15px;
 }
 .channel {
-  display: inline-block;
+  display: grid;
   width: 50px;
   vertical-align: top;
 }
 .video_info {
-  display: inline-block;
-  width: 100px;
+  display: grid;
+  grid-template-columns: 1fr;
 }
 .profile {
   width: 100%;
   border-radius: 50%;
+}
+.channel-video-info {
+  display: grid;
+  grid-template-columns: 50px 1fr;
 }
